@@ -14,7 +14,7 @@ Consiste em um teste de usabilidade, onde é feita uma varredura em todas as fun
 - Criação | Atribuição  (Podendo ser direcionado a um desenvolverdor ou esquipe responsável).
 - ---
 ### Reporte dos Bugś encontrados 🪲🐞
-Documento PDF presento no seguinte caminho:https://github.com/GeorgeVieira1/Bug-Report---Teste-Manual.git
+Documento PDF presente no seguinte caminho:https://github.com/GeorgeVieira1/Bug-Report---Teste-Manual.git
 
 bug-001
 
