@@ -1,5 +1,5 @@
 # Desafio EBAC bug report simples
-Consite em um teste de usabilidade, onde é feita uma varedura em todas ass funcionalidades para identificar possíveis erros, falhas, bugs ou melhorias.
+Consiste em um teste de usabilidade, onde é feita uma varredura em todas as funcionalidades para identificar possíveis erros, falhas, bugs ou melhorias.
 >---
 ## Organização do documento 📄
 
